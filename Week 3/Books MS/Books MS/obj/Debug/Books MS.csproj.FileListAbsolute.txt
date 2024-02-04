@@ -1,0 +1,7 @@
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Books MS\Books MS\bin\Debug\Books MS.exe.config
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Books MS\Books MS\bin\Debug\Books MS.exe
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Books MS\Books MS\bin\Debug\Books MS.pdb
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Books MS\Books MS\obj\Debug\Books MS.csproj.AssemblyReference.cache
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Books MS\Books MS\obj\Debug\Books MS.csproj.CoreCompileInputs.cache
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Books MS\Books MS\obj\Debug\Books MS.exe
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Books MS\Books MS\obj\Debug\Books MS.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Japnesegame", "Japnesegame\Japnesegame.csproj", "{EAFB2453-10F6-4D73-B17A-61DBDE9957BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFB2453-10F6-4D73-B17A-61DBDE9957BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFB2453-10F6-4D73-B17A-61DBDE9957BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFB2453-10F6-4D73-B17A-61DBDE9957BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFB2453-10F6-4D73-B17A-61DBDE9957BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A077CE-67D8-4CD2-BF2D-860CB51E4139}
+	EndGlobalSection
+EndGlobal

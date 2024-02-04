@@ -1,0 +1,7 @@
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Japnesegame\Japnesegame\obj\Debug\Japnesegame.csproj.AssemblyReference.cache
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Japnesegame\Japnesegame\obj\Debug\Japnesegame.csproj.CoreCompileInputs.cache
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Japnesegame\Japnesegame\bin\Debug\Japnesegame.exe.config
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Japnesegame\Japnesegame\bin\Debug\Japnesegame.exe
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Japnesegame\Japnesegame\bin\Debug\Japnesegame.pdb
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Japnesegame\Japnesegame\obj\Debug\Japnesegame.exe
+D:\Study\2nd Semester CS A\Lab\PD LAB\Week 3\Japnesegame\Japnesegame\obj\Debug\Japnesegame.pdb
